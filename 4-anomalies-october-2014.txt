@@ -1,0 +1,13 @@
+*I assume these data is about the call data between users because it contains start_time and end_time
+
+Findings: 
+1. Number of active users is decreased by 6% compared to its previous month (September).
+2. Number of New User on October only 2.5% 
+3. Most of users only use services for less then 15551 seconds (Based on histogram - question number 
+
+Potential root cause:
+1. I assume that there is an increase in the price of a call service under 15561 seconds
+2. A decrease in the quality of the signal provided by the base station
+3. There are 2 Islamic Holidays on October 2014 (Idul Adha, Islamic New Year), people could be take day off and visiting their family and not using call services during that day off
+4. There could be a promotion from another company. 
+5. There could be a promotion for another service (internet services), thus people tend to try that service and abandon the call service)

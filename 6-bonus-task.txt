@@ -1,0 +1,2 @@
+We can drop the month and date column because we can get month and date from either start_time or end_time with date_trunc method.
+It can save up to 106 MB query size, we still can get month and date information with date_trunc method without additional query size. 
